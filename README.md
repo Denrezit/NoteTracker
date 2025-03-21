@@ -8,7 +8,7 @@ This repository contains website for note-taking
 - notes.html: Страница заметок
 - planning.html: Страница планирования
 - habits.html: Страница привычек
-- chatting.html: Страница чата
+- chatting.html: Страница форума
 - document.html: Страница документов
 - css/: Стили
 - js/: Скрипты
